@@ -1,4 +1,4 @@
 # RSA
 RSA cryptosystem and digital signature algorithm
 
-RSA and digital signature algorithm. Acquaintance with the methods of generating parameters for asymmetric cryptosystems
+Acquaintance with the methods of generating parameters for asymmetric cryptosystems
